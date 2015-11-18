@@ -1,0 +1,19 @@
+{
+  "name": "price-calculation",
+  "version": "1.0.0",
+  "description": "Module to calculate prices",
+  "main": "price-calculation.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "ssh://git@192.168.0.127/srv/repos/Price-Calculation-Module.git"
+  },
+  "keywords": [
+    "Prices",
+    "Calculation"
+  ],
+  "author": "André Vieira <andre.vieira@wintouch.pt>",
+  "license": "MIT"
+}
